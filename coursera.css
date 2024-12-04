@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+img:hover img:focus{
+    border: 2px solid;
+    width: 200;
+    border-color: black;
+}
